@@ -8,6 +8,7 @@ Currently includes:
   ![MALA Animation](mala/mala_sampling.gif)  
 
 - `acgt_lm` → a minimal language model for DNA sequences.
+  
 I coded this project to learn about language models (LLMs) and it should run efficiently on a CPU.
 
 The architecture consists of the following components:
